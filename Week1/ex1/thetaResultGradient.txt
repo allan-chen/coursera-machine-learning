@@ -1,0 +1,24 @@
+# Created by Octave 4.0.3, Wed Aug 24 13:43:31 2016 GMT <unknown@Allan-Chen>
+# name: theta
+# type: matrix
+# rows: 3
+# columns: 1
+ 340412.6595630792
+ 110629.1899263913
+ -6647.613918364988
+
+
+# name: mu
+# type: matrix
+# rows: 1
+# columns: 2
+ 2000.68085106383 3.170212765957447
+
+
+# name: sigma
+# type: matrix
+# rows: 1
+# columns: 2
+ 794.7023535338897 0.7609818867800999
+
+
